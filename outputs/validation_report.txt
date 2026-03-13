@@ -1,0 +1,5 @@
+Validation Report for SPY
+Total Rows: 124
+Start Date: 2025-09-15 00:00:00
+End Date: 2026-03-12 00:00:00
+Missing Values: 0
